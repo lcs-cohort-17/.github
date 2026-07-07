@@ -70,29 +70,17 @@ We operate in **2-week sprints** with the following ceremonies:
 
 ## 📝 Contribution Guidelines
 
-- Every task must have a GitHub Issue or project board card
+- Every task must have a GitHub Issue or project board card (or ticket available on Slack)
 - Write unit tests for new features
 - Update documentation when introducing changes
 
 ---
 
-## 🤝 Code of Conduct
-
-We uphold values of **respect, integrity, and growth**. Let's support and uplift one another throughout this journey.
+**Let's make Cohort 17 unforgettable!** 
 
 ---
 
-## 📬 Contact
-
-- **Facilitators:** Reach out to your Scrum Masters or Life Choices facilitation team
-
----
-
-**Let's make Cohort 17 unforgettable!** 🚀
-
----
-
-*— Studio Group 17, Life Choices Cohort 17*
+*— Life Choices Cohort 17*
 
 <!--
 
