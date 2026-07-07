@@ -1,6 +1,6 @@
-# Life Choices – Studio Group 17
+# Life Choices Studio - Cohort 17
 
-Welcome to **Studio Group 17** of the Life Choices current cohort! This GitHub organisation is our collaborative workspace where we build, learn, and grow together as we prepare for the tech industry.
+Welcome to Life Choices's **Cohort 17's** organization! This GitHub organisation is our collaborative workspace where we build, learn, and grow together as we prepare for the tech industry.
 
 ---
 
@@ -63,10 +63,8 @@ Vercel, Netlify
 
 We operate in **2-week sprints** with the following ceremonies:
 
-- **Sprint Planning** – Monday @ 10:00 AM
+- **Sprint Planning** – Monday @ 10:00 AM (Brief onboarding)
 - **Daily Stand-up** – 9:30 AM (team channels)
-- **Sprint Review** – Friday @ 2:00 PM
-- **Retrospective** – Friday @ 3:00 PM
 
 ---
 
@@ -74,7 +72,6 @@ We operate in **2-week sprints** with the following ceremonies:
 
 - Every task must have a GitHub Issue or project board card
 - Write unit tests for new features
-- Follow linting rules (ESLint, Prettier, etc.)
 - Update documentation when introducing changes
 
 ---
@@ -87,7 +84,6 @@ We uphold values of **respect, integrity, and growth**. Let's support and uplift
 
 ## 📬 Contact
 
-- **Slack/Discord:** `#studio-17-general`
 - **Facilitators:** Reach out to your Scrum Masters or Life Choices facilitation team
 
 ---
